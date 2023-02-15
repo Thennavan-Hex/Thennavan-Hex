@@ -43,7 +43,7 @@
 </br>
 # <b>Git Torphy</b> 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thens18&theme=tokyonight&margin-w=30&margin-h=20)](https://github.com/thens18/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thennavan-Hex&theme=tokyonight&margin-w=30&margin-h=20)](https://github.com/thens18/github-profile-trophy)
 
 ###
 
