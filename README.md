@@ -18,29 +18,9 @@
 <a href="https://twitter.com/Thens18">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 ## <b>Github Stats </b> :rocket:
-
-<a href="https://www.thennavan.tech"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Thennavan-Hex&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
-
-
-
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=Thennavan-Hex&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 <br />
-
-
-<p align="center">
-  <a href="#">
-    <img
-      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Thennavan-Hex&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
-  </a>
-</p>
-<br>
-
-</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thennavan-Hex&theme=tokyonight&hide_border=true)<br/>
 # <b>Git Torphy</b> 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thennavan-Hex&theme=tokyonight&margin-w=30&margin-h=20)](https://github.com/thens18/github-profile-trophy)
