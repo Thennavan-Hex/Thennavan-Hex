@@ -1,5 +1,6 @@
 <h2 align="center"> Hi there, I'm Thennavan! <img src="https://media2.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif?cid=ecf05e4787rguf8s7fd88cktitswkqqrowj38x1orfjm2l9a&amp;rid=giphy.gif" width="50"></h2>
 
+## 🚀 About Me:
 <p align="center">
   <samp>🔭 I’m currently working on something cool<br>
     👯 I’m looking to collaborate on dev<br>
@@ -7,9 +8,6 @@
     💬 Ask me about Tech</samp>
 </p>
 
-
-## 🚀 About Me:
-<!-- Your introduction here -->
 
 ## 📱 Connect with me:
 <p align="center">
@@ -26,7 +24,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <!-- Add more languages and tools -->
+
 </p>
 
 ## 🌟 My Workspace:
