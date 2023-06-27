@@ -1,4 +1,6 @@
-<h2 align="center"> Hi there, I'm Thennavan! <img src="https://media2.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif?cid=ecf05e4787rguf8s7fd88cktitswkqqrowj38x1orfjm2l9a&amp;rid=giphy.gif" width="50"></h2>
+![Image Description](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<h2 align="center"> Hi there, I'm Thennavan! </h2>
 
 ## 🚀 About Me:
 <p align="center">
