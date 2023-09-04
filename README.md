@@ -44,16 +44,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Thennavan-Hex&theme=tokyonight&margin-w=30&margin-h=20" alt="Git Trophy">
 </p>
-
-## 🐍 Contributions:
-<p align="center">
-  <img src="https://github.com/thens18/snake/blob/output/github-contribution-grid-snake.svg" alt="Contributions">
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/thens18"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"></a>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Thennavan-Hex&icon=4&color=0" alt="Profile Visits">
-</p>
